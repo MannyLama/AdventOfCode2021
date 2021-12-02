@@ -1,11 +1,11 @@
 package dev.manfred.adventOfCode2021;
 
 public class Event<T> {
-    private ResultPrinter<T> resultPrinter;
-    private String dataPath;
-    private int day;
-    private T result1;
-    private T result2;
+    private final ResultPrinter<T> resultPrinter;
+    private final String dataPath;
+    private final int day;
+    private final T result1;
+    private final T result2;
 
 
     public Event(String dataPath, int day, T result1, T result2) {
