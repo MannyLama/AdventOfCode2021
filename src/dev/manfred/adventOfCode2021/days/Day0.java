@@ -1,4 +1,4 @@
-package dev.manfred.adventOfCode2021.Days;
+package dev.manfred.adventOfCode2021.days;
 
 import dev.manfred.adventOfCode2021.Event;
 import dev.manfred.adventOfCode2021.EventLoader;

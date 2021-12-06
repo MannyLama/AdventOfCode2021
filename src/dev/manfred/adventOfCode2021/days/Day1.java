@@ -1,8 +1,7 @@
-package dev.manfred.adventOfCode2021.Days;
+package dev.manfred.adventOfCode2021.days;
 
 import dev.manfred.adventOfCode2021.Event;
 import dev.manfred.adventOfCode2021.EventLoader;
-import dev.manfred.adventOfCode2021.ResultPrinter;
 import dev.manfred.adventOfCode2021.Runnable;
 
 import java.util.ArrayList;
