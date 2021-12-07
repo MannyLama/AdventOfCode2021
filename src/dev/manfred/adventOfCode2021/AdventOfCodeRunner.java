@@ -19,5 +19,6 @@ public class AdventOfCodeRunner {
         //new Day3().run1().run2();
         //new Day4().run1().run2();
         //new Day5().run1().run2(); // not efficiënt
+        //new Day6().run1().run2();
     }
 }
